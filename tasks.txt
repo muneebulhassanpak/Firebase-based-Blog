@@ -1,0 +1,5 @@
+Authentication
+ SignUp/Login/Logout
+Read Others Posts, Like etc
+A page where person can write his/her content (GPT,pixabay,organize,keyword research)
+
